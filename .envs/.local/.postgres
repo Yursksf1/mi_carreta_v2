@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=mi_carreta
+POSTGRES_USER=kErSRMJeDTydGfeoavXopQcSdwycETeq
+POSTGRES_PASSWORD=fu9gdULQpntXuNy47IRXiy9V80MciUZH24nveMXFYZbVxV9ge0l1ag6Pd0j8TLNz
